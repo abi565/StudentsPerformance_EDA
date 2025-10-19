@@ -1,0 +1,11 @@
+### ⚙️ **requirements.txt**
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+textblob
+tensorflow
+wordcloud
